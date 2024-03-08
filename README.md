@@ -8,7 +8,7 @@ Before using this repository, ensure you have the following:
 
 1. An API key from Anthropoc. You can obtain it from [Anthropic](https://anthropic.com).
 2. Python and pip installed on your system.
-3. macOS environment with Zsh shell.
+3. macOS environment with Zsh shell, if you're using bash just replace anywhere it says .zshrc with .bashrc and it should work the same for you.
 
 ## Setup
 
