@@ -1,4 +1,5 @@
-# Claude3 CLI Interface
+# Claude3 CLI Interface - AI in the comfort of your terminal
+<img src="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F4e78f69ef8d4186fb5691714abe36224483d91b0-2880x1620.png&w=3840&q=75" style="display:block; "/>
 
 This repository provides a convenient way to interact with Claude3, an advanced AI assistant developed by Anthropoc Inc., directly through the command line interface (CLI). It consists of a Python script (`claude.py`) that utilizes the Anthropoc SDK and a shell script (`claude_script.sh`) to handle environment setup and script execution.
 
