@@ -18,24 +18,24 @@ Before using this repository, ensure you have the following:
    echo "ANTHROPIC_API_KEY={Your-API-Key}" >> ~/.zshrc
    ```
 
-2. **Restart Shell**: Restart your shell or reload the shell configuration file for changes to take effect. You can do this by closing and reopening your terminal or running:
+2. **Download the Repository**: Clone or download [this repository](https://github.com/DevDevvy/claud3_CLI) to your local machine.
 
-   ```bash
-   source ~/.zshrc
-   ```
-
-3. **Download the Repository**: Clone or download this repository to your local machine.
-
-4. **Set Alias**: Add an alias to easily run the script in the terminal. Execute the following command in your terminal, replacing `/PATH/TO/anthropic` with the path where you've saved the scripts:
+3. **Set Alias**: Add an alias to easily run the script in the terminal. Execute the following command in your terminal, replacing `/PATH/TO/anthropic` with the path where you've saved the scripts:
 
    ```bash
    echo "alias ask='/PATH/TO/anthropic/claude_script.sh'" >> ~/.zshrc
    ```
 
-5. **Make Script Executable**: Make the shell script executable using the following command:
+4. **Make Script Executable**: Make the shell script executable using the following command:
 
    ```bash
    chmod +x /PATH/TO/anthropic/claude_script.sh
+   ```
+   
+5. **Restart Shell**: Restart your shell or reload the shell configuration file for changes to take effect. You can do this by closing and reopening your terminal or running:
+
+   ```bash
+   source ~/.zshrc
    ```
 
 ## Usage
