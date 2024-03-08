@@ -60,5 +60,7 @@ To interact with Claude3, follow these steps:
 - Ensure that your API key is correctly set in your shell environment for the script to function properly.
 - You can modify the code as needed and contribute to the repository.
 - For any issues or suggestions, feel free to open an issue on GitHub.
+- Uncomment the role and content object in the python script and edit it to add a pretext to Claude's answer to jumpstart the generation (i.e if you like step-by-step instructions you can pretext with "Certainly! Here is a list that will help you:", then Claude will output the message in that context
+- The system context allows you to give the whole system context (i.e "You are a powerful AI assistant helping me cure cancer" and can give you more control over the AI responses
 
 Now you can start interacting with Claude3 directly from your terminal!
